@@ -10,7 +10,7 @@ The notebooks cover a range of topics, from classical neural network architectur
 
 ## Content : 
 
-### **1.TutorialPytorch.ipynb **
+### **1.TutorialPytorch.ipynb**
 A practical introduction to PyTorch.  
 Includes tensors, autograd, custom modules, training loops, and dataset handling.
 
