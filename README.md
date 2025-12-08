@@ -27,7 +27,6 @@ Introduction to Convolutional Neural Networks, including convolutional layers, p
 Introduction to Gaussian Process Regression (GPR), kernel functions, and probabilistic predictions.
 
 ### **6. Auto-Encoder.ipynb**
-Implementation of a simple autoencoder for dimensionality reduction and data reconstruction.  
 Explores encoder–decoder architectures and reconstruction loss.
 
 ### **7. ViT.ipynb**
